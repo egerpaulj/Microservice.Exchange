@@ -18,7 +18,7 @@ A Message Exchange allows safe consumption, routing, filtering, caching, transla
 
 Additionally the Exchange allows publication to any target system.
 
-	![Exchange Design](/Documentation/Exchange.png)
+  ![Exchange Design](/Documentation/Exchange.png)
 
 The Exchange can be summarised using the steps outline below:
 1) Consume messages from a data source (**DataIn**)
