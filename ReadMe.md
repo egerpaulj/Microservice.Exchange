@@ -219,7 +219,7 @@ This library was highly influenced by the excellent work published by:
 
 - Gregor Hohpe's Enterprise Integration Patterns
 
-https://enterpriseintegrationpatterns.com
+https://www.enterpriseintegrationpatterns.com/
 
 - Apache Camel - Java implementation of many enterprise integration patterns and endpoints/components
 
