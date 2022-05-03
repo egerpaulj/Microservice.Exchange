@@ -1,0 +1,15 @@
+[submodule "Microservice.TestHelper"]
+	path = Microservice.TestHelper
+	url = https://github.com/egerpaulj/Microservice.TestHelper.git
+[submodule "Microservice.Serialization"]
+	path = Microservice.Serialization
+	url = https://github.com/egerpaulj/Microservice.Serialization.git
+[submodule "Microservice.Elasticsearch"]
+	path = Microservice.Elasticsearch
+	url = https://github.com/egerpaulj/Microservice.Elasticsearch.git
+[submodule "Microservice.Amqp"]
+	path = Microservice.Amqp
+	url = https://github.com/egerpaulj/Microservice.Amqp.git
+[submodule "Microservice.Mongodb"]
+	path = Microservice.Mongodb
+	url = https://github.com/egerpaulj/Microservice.Mongodb.git
