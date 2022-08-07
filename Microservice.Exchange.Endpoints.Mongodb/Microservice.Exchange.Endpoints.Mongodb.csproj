@@ -19,7 +19,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Microservice.Serialization\Microservice.Serialization.csproj" />
     <ProjectReference Include="..\Microservice.Exchange.Core\Microservice.Exchange.Core.csproj" />
-    <ProjectReference Include="..\Microservice.Mongodb.Repo\Microservice.Mongodb.Repo.csproj" />
+    <ProjectReference Include="..\Microservice.Mongodb\Microservice.Mongodb.Repo\Microservice.Mongodb.Repo.csproj" />
     <ProjectReference Include="..\Microservice.DataModel.Core\Microservice.DataModel.Core.csproj" />
   </ItemGroup>
 

@@ -37,10 +37,10 @@
     <ProjectReference Include="..\Microservice.Exchange.Endpoints.Mongodb\Microservice.Exchange.Endpoints.Mongodb.csproj" />
     <ProjectReference Include="..\Microservice.Exchange.Endpoints.Elasticsearch\Microservice.Exchange.Endpoints.Elasticsearch.csproj" />
     <ProjectReference Include="..\Microservice.Exchange.Endpoints.Command\Microservice.Exchange.Endpoints.Command.csproj" />
-    <ProjectReference Include="..\Microservice.Core\Microservice.Core.csproj" />
+    <ProjectReference Include="..\Microservice.Core\Microservice.Core\Microservice.Core.csproj" />
     <ProjectReference Include="..\Microservice.DataModel.Core\Microservice.DataModel.Core.csproj" />
-    <ProjectReference Include="..\Microservice.Amqp.Rabbitmq\Microservice.Amqp.Rabbitmq.csproj" />
-    <ProjectReference Include="..\Microservice.Elasticsearch.Repo\Microservice.Elasticsearch.Repo.csproj" />
+    <ProjectReference Include="..\Microservice.Amqp\Microservice.Amqp.Rabbitmq\Microservice.Amqp.Rabbitmq.csproj" />
+    <ProjectReference Include="..\Microservice.Elasticsearch\Microservice.Elasticsearch.Repo\Microservice.Elasticsearch.Repo.csproj" />
 
 
   </ItemGroup>

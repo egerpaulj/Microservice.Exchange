@@ -1,15 +1,35 @@
 [submodule "Microservice.TestHelper"]
 	path = Microservice.TestHelper
 	url = https://github.com/egerpaulj/Microservice.TestHelper.git
+	branch = main
+	update = rebase
 [submodule "Microservice.Serialization"]
 	path = Microservice.Serialization
 	url = https://github.com/egerpaulj/Microservice.Serialization.git
+	branch = main
+	update = rebase
 [submodule "Microservice.Elasticsearch"]
 	path = Microservice.Elasticsearch
 	url = https://github.com/egerpaulj/Microservice.Elasticsearch.git
+	branch = main
+	update = rebase
 [submodule "Microservice.Amqp"]
 	path = Microservice.Amqp
 	url = https://github.com/egerpaulj/Microservice.Amqp.git
+	branch = main
+	update = rebase
 [submodule "Microservice.Mongodb"]
 	path = Microservice.Mongodb
 	url = https://github.com/egerpaulj/Microservice.Mongodb.git
+	branch = main
+	update = rebase
+[submodule "Microservice.DataModel.Core"]
+	path = Microservice.DataModel.Core
+	url = https://github.com/egerpaulj/Microservice.DataModel.Core.git
+	branch = main
+	update = rebase
+[submodule "Microservice.Core"]
+	path = Microservice.Core
+	url = https://github.com/egerpaulj/Microservice.Core.git
+	branch = main
+	update = rebase

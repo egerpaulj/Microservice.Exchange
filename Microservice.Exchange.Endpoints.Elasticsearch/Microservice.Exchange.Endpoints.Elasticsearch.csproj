@@ -18,7 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Microservice.Serialization\Microservice.Serialization.csproj" />
     <ProjectReference Include="..\Microservice.Exchange.Core\Microservice.Exchange.Core.csproj" />
-    <ProjectReference Include="..\Microservice.Elasticsearch.Repo\Microservice.Elasticsearch.Repo.csproj" />
+    <ProjectReference Include="..\Microservice.Elasticsearch\Microservice.Elasticsearch.Repo\Microservice.Elasticsearch.Repo.csproj" />
     <ProjectReference Include="..\Microservice.DataModel.Core\Microservice.DataModel.Core.csproj" />
   </ItemGroup>
 
